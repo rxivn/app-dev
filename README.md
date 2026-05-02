@@ -1,7 +1,7 @@
 # app-dev
 My first Repository
 <h1> The Maze Runner </h1>
-<h6>Series</h6>
+<h3>Series</h3>
 
 <ul>
 <li> its a post apocaliptic movie featuring virus outbreak</li>
